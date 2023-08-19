@@ -13,7 +13,6 @@ from settings import settings
 os.environ["SDL_VIDEO_CENTERED"] = '1'
 run = True
 pygame.init()
-pygame.display.set_caption("3D cube Projection")
 pyscreen = pygame.display.set_mode((settings.width, settings.height), pygame.SCALED)
 clock = pygame.time.Clock()
 fps = 600

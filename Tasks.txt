@@ -1,0 +1,6 @@
+Per-pixel lighting
+code refactoring
+poligon trimming
+mip mapping
+anisotrop filtering
+local rotations
